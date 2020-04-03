@@ -1,0 +1,21 @@
+[submodule "dot-gazebo"]
+	path = dot-gazebo
+	url = https://github.com/yonsei-ius/dot-gazebo.git
+[submodule "trainer"]
+	path = trainer
+	url = https://github.com/yonsei-ius/drone-ppo-trainer.git
+[submodule "quadrotor/src/hector_slam"]
+	path = quadrotor/src/hector_slam
+	url = https://github.com/yonsei-ius/hector_slam_ius.git
+[submodule "quadrotor/src/hector_models"]
+	path = quadrotor/src/hector_models
+	url = https://github.com/yonsei-ius/hector_models_ius.git
+[submodule "quadrotor/src/hector_localization"]
+	path = quadrotor/src/hector_localization
+	url = https://github.com/yonsei-ius/hector_localization_ius.git
+[submodule "quadrotor/src/hector_gazebo"]
+	path = quadrotor/src/hector_gazebo
+	url = https://github.com/yonsei-ius/hector_gazebo_ius.git
+[submodule "quadrotor/src/hector_quadrotor"]
+	path = quadrotor/src/hector_quadrotor
+	url = https://github.com/yonsei-ius/hector_quadrotor_ius
